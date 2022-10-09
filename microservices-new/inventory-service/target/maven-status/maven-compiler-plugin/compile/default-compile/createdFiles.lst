@@ -1,0 +1,5 @@
+com\kampot\inventoryservice\controller\InventoryController.class
+com\kampot\inventoryservice\InventoryServiceApplication.class
+com\kampot\inventoryservice\model\Inventory.class
+com\kampot\inventoryservice\repository\InventoryRepository.class
+com\kampot\inventoryservice\service\InventoryService.class
